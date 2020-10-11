@@ -7,6 +7,7 @@ We have 2 main folder
 After downloading both the folder
 Run the following command -
 "npm install" then "npm start" in each folder 
+
 Example -  
    react-express-mysql-calender/client =>  npm install then "npm start"    
    react-express-mysql-calender/server =>  npm install after it "npm start"
