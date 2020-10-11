@@ -12,9 +12,11 @@ Example -
    react-express-mysql-calender/client =>  npm install then "npm start"    
    react-express-mysql-calender/server =>  npm install after it "npm start"
    
-Our 2 server will start. 
- (i)  React(client) will run on PORT 3000 
- (ii) NodeApi(server) will run on PORT 3001
+Our 2 server will start.
+
+(i)  React(client) will run on PORT 3000 
+
+(ii) NodeApi(server) will run on PORT 3001
 
 User can login and logout and can insert event and delete event in calender
 
