@@ -18,5 +18,5 @@ Our 2 server will start.
 
 (ii) NodeApi(server) will run on PORT 3001
 
-User can login and logout and can insert event and delete event in calender
+User can login and logout and can insert event and delete event in calender update (not working now)
 
