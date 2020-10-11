@@ -1,0 +1,23 @@
+.calender_container .leftPart {
+    width: 20%;
+    float: left; background-color: #fffadf;
+    border-right: 1px solid #ddd;
+    padding-bottom: 999px;
+    margin-bottom: -999px;
+    
+}
+
+.calender_container .rightPart {
+    width: 80%;
+    float: left;
+    position: relative;
+    padding: 30px; 
+}
+
+b { /* used for event dates/times */
+    margin-right: 3px;
+}
+
+.fc { /* the calendar root */
+    margin: 0 auto;
+  }
