@@ -48,6 +48,8 @@ router.post("/", (req, res) => {
             res.json({ status: 'ERROR', msg: JSON.stringify(err) });
         }
     });
+    
+    mysqlConnection.end();
 });
 
 module.exports = router;
